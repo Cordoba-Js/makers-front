@@ -1,4 +1,4 @@
-#Pasos para ejecutar el proyecto:
+# Pasos para ejecutar el proyecto:
 - Clone el proyecto en su equipo local.
 - Abra el proyecto en su editor de código preferido.
 - Antes de continuar, por favor, ejecute el proyecto del back.
