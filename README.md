@@ -1,4 +1,13 @@
-# React + Vite
+#Pasos para ejecutar el proyecto:
+- Clone el proyecto en su equipo local.
+- Abra el proyecto en su editor de código preferido.
+- Antes de continuar, por favor, ejecute el proyecto del back.
+- Abra una consola y diríjase a la ruta raíz del proyecto.
+- Ejecute el comando npm install
+- Ejecute el comando npm run dev
+- En la consola se motrara la URL a la que deberá acceder.
+
+### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
